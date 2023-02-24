@@ -106,3 +106,4 @@ Maak deze gehele opdracht eerst alsof je het voor één tv doet. We gaan één t
    de bijbehorende knop klikt. _Tip_: lees hiervoor paragraaf 7.4 op EdHub eens door!
 2. Zorg er nu voor, in plaats van dat de uitkomsten in de console worden gelogd, dat de uitkomsten worden meegegeven aan
    jouw functie uit 4e zodat de resultaten daadwerkelijk op de pagina weergegeven worden!
+# JavaScript-Tech-it-easy
